@@ -58,7 +58,7 @@ body {
     color: #fff; /* Text color for the button */
     font-size: 16px; /* Font size for the button text */
     border: none; /* Remove the button border */
-    border-radius: 0px; /* Create rounded corners */
+    border-radius: 0px; /* the 0px creates a box button with no round corners as the others*/
     text-decoration: none; /* Remove underlines from the link */
     cursor: pointer; /* Show a pointer cursor on hover */
 }
